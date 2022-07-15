@@ -53,6 +53,8 @@ mpg %>%
 
 ## Tables
 
+![evil spirit](images/Black%20Magic.jpg "Evil spirit")
+
 | Following Business Science | Chance of Success | Speed of Learning |
 |----------------------------|-------------------|-------------------|
 | Yes                        | High              | Fast              |
